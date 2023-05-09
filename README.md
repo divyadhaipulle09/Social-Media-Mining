@@ -1,6 +1,5 @@
-# Social-Media-Mining 
+# Social-Media-Mining - The Fallout of a Wrong Answer: Analyzing Public Sentiment on Bard's Accuracy Reputation. (1398 words) 
 
-The Fallout of a Wrong Answer: Analyzing Public Sentiment on Bard's Accuracy Reputation. (1398 words) 
 Divya Dhaipullay, MS in Data Science, 2nd Semester, Indiana University
  
 
